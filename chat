@@ -1,0 +1,5 @@
+chat-app/
+├── server.py
+├── requirements.txt
+└── templates/
+    └── index.html
