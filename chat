@@ -2,4 +2,5 @@ chat-app/
 ├── server.py
 ├── requirements.txt
 └── templates/
-    └── index.html
+    ├── index.html
+    └── chat.html
